@@ -26,7 +26,7 @@ main:               #process entry point
     move $t1, $v0 #move the value from $v0 to $t1 register 
     
     li $t2, 1 # the $t2 register receives the inicial value of factorial
-    # the $t2 will be the factorial of the entered number, the result of the process
+    
     li $t3, 0 #so lets put a number to increase from 0 to entered value 
 
 f_loop:
