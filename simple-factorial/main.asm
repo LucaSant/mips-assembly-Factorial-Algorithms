@@ -1,5 +1,4 @@
-<<<<<<< ours
-=======
+
 # programmed in MIPS Assembly 
 # No recursive  factorial with any procedure (without jar nor jr functions) 
 # class example number one
@@ -62,7 +61,3 @@ endloop:
 
     li $v0, 10 # $v0 = 10 - Command to end the program 
     syscall
-
-
-
->>>>>>> theirs

@@ -15,7 +15,7 @@ factorial:
 
 loop:
     #decreasing iterator loop
-    beq $a1, $t0, endloop 
+    ble $a1, $t0, endloop 
     mul $v0, $v0, $a1 # $a1 is used to multiples with $v0 
     addi $a1, $a1, -1 #decrease the iterator until $a1 be equals to 1
     j loop # jump to loop
