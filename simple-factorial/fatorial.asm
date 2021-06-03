@@ -1,3 +1,5 @@
+<<<<<<< ours
+=======
 # programmed in MIPS Assembly 
 # No recursive  factorial with any procedure (without jar nor jr functions) 
 # class example number one
@@ -62,3 +64,4 @@ endloop:
     syscall
 
 
+>>>>>>> theirs
