@@ -7,7 +7,7 @@
     .align 0          #align data in memory so that it fits in 2^n bytes
                       #...here it aligns by 1 byte (character value)
                       
-string_num:    .asciiz "enter a number:" # string variables 'declarations'
+string_num:    .asciiz "enter a number: " # string variables 'declarations'
 print_num:     .asciiz "The factorial of  "
 print_is:      .asciiz " is "
 
