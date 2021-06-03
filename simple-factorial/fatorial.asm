@@ -11,8 +11,6 @@ string_num:    .asciiz "enter a number: " # string variables 'declarations'
 print_num:     .asciiz "The factorial of  "
 print_is:      .asciiz " is "
 
-    .align 2          #it aligns by 4 bytes (integer value)
-
     .text           #identifies the beginning of the text segment 
     .globl main     #labels the  process entry point 
 
