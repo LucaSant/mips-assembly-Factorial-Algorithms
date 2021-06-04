@@ -1,1 +1,2 @@
-# mips-assembly-Factorial-Algorithms
+# Factorial Algorithm in MIPS Assembly
+## Class examples
