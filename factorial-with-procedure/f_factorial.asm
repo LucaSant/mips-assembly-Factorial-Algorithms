@@ -1,4 +1,4 @@
-
+#Fuction
     .text
 
     .globl factorial 
